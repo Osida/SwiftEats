@@ -39,9 +39,7 @@ Hey, I'm Osida! Welcome to the Facebook redesign. To visit the live version, [cl
 ## 🎨 Design
 
 <div display="flex" justify-content="space-evenly">
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img width="350" alt="Swift Eats" src="https://user-images.githubusercontent.com/51928654/186550611-c89e57dd-bfc3-4c5a-90c5-ee8973971e09.png" />
-  </a>
+  <img width="350" alt="Swift Eats" src="https://user-images.githubusercontent.com/51928654/186550611-c89e57dd-bfc3-4c5a-90c5-ee8973971e09.png" />
 </div>
 
 ## ✒️ Developers
